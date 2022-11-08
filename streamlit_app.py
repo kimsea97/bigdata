@@ -4,6 +4,7 @@ import numpy as np
 
 # 헤드라인
 st.write("# 보험료 예측")
+st.write("##정보를 넣어주세요")
 
 # 첫번째 행
 r1_col1, r1_col2, r1_col3 = st.columns(3)
