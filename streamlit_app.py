@@ -3,8 +3,8 @@ import joblib
 import numpy as np
 
 # 헤드라인
-st.write("# 보험료 예측")
-st.write("정보를 넣어주세요")
+st.write("# 🚑보험료 예측")
+st.write("✅정보를 넣어주세요")
 
 
 # 첫번째 행
@@ -33,7 +33,7 @@ is_southeast = region_option[1] == region
 is_northwest = region_option[2] == region
 
 # 예측 버튼
-predict_button = st.button("예측")
+predict_button = st.button("🎈🎈🎈예측")
 
 st.write("---")
 # 예측 결과
