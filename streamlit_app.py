@@ -46,3 +46,4 @@ if predict_button:
 
     st.metric("예측 보험료", pred[0])
     st.balloons()
+    st.image("보험.avi.png")
