@@ -6,7 +6,7 @@ import numpy as np
 st.write("# 🚑보험료 예측")
 st.write("## ✅정보를 넣어주세요")
 st.image('https://wiki.kkutu.io/index.php/%ED%8C%8C%EC%9D%BC:%EB%82%B4%EA%B0%80%EA%B3%A0%EC%9E%90%EB%9D%BC%EB%8B%88.jpg')
-# st.image(img, width=400, caption=”Image example: insurance”)
+# st.image(img, width=200, caption=”Image example: insurance”)
 
 
 # 첫번째 행
