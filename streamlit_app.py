@@ -36,10 +36,7 @@ is_northwest = region_option[2] == region
 predict_button = st.button("예측")
 
 st.write("---")
-from PIL import Image
-image = Image.open('insure.png')
-
-st.image(image, caption='아프지마세요')
+st.image("https://imgur.com/qadegWD)
 # 예측 결과
 if predict_button:
     model = joblib.load('first_model.pkl')
