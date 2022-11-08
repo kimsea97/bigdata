@@ -5,6 +5,8 @@ import numpy as np
 # 헤드라인
 st.write("# 🚑보험료 예측")
 st.write("## ✅정보를 넣어주세요")
+
+# 이미지
 st.image('https://wiki.kkutu.io/index.php?curid=5355')
 st.write("---")
 
