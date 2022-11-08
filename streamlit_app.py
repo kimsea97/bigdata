@@ -5,8 +5,8 @@ import numpy as np
 # 헤드라인
 st.write("# 🚑보험료 예측")
 st.write("## ✅정보를 넣어주세요")
-st.image('https://wiki.kkutu.io/index.php/%ED%8C%8C%EC%9D%BC:%EB%82%B4%EA%B0%80%EA%B3%A0%EC%9E%90%EB%9D%BC%EB%8B%88.jpg#/media/파일:내가고자라니.jpg')
-# st.image(img, width=400, caption=”Image example: BMI”)
+st.image('https://wiki.kkutu.io/index.php/%ED%8C%8C%EC%9D%BC:%EB%82%B4%EA%B0%80%EA%B3%A0%EC%9E%90%EB%9D%BC%EB%8B%88.jpg')
+# st.image(img, width=400, caption=”Image example: insurance”)
 
 
 # 첫번째 행
