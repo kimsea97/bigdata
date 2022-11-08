@@ -36,7 +36,7 @@ is_northwest = region_option[2] == region
 predict_button = st.button("예측")
 
 st.write("---")
-
+st.image("보험.avi.png")
 # 예측 결과
 if predict_button:
     model = joblib.load('first_model.pkl')
@@ -46,4 +46,4 @@ if predict_button:
 
     st.metric("예측 보험료", pred[0])
     st.balloons()
-    st.image("보험.avi.png")
+    
