@@ -40,7 +40,6 @@ from PIL import Image
 image = Image.open('insure.png')
 
 st.image(image, caption='아프지마세요')
-st.("insure.png")
 # 예측 결과
 if predict_button:
     model = joblib.load('first_model.pkl')
