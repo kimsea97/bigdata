@@ -3,6 +3,14 @@ import joblib
 import numpy as np
 
 # 헤드라인
+from PIL import Image
+image = Image.open('https://imgur.com/c48NRbi')
+
+
+
+
+
+
 st.write("# 🚑보험료 예측")
 st.write("✅정보를 넣어주세요")
 
