@@ -5,7 +5,7 @@ import numpy as np
 # 헤드라인
 st.write("# 🚑보험료 예측")
 st.write("## ✅정보를 넣어주세요")
-st.image('<a href="https://wiki.kkutu.io/index.php?curid=5355">링크</a>')
+st.image('https://wiki.kkutu.io/index.php?curid=5355')
 
 
 # 첫번째 행
